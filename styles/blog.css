@@ -1,0 +1,13 @@
+h1{
+    background-color: orangered;
+    border-width: 400px;
+    height: 70px;
+}
+h2{
+    background-color: blue;
+    width: 200px;
+}
+p{
+    border: 400px;
+    background: gray;
+}
